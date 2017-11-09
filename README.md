@@ -1,4 +1,4 @@
-# Grupo5_Aizaga_Iza_Guanoluisa
+# Grupo2_Aizaga_Guanoluisa_Iza
 --------------------------------
 ## Integrantes
 * Aizaga Steven
